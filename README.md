@@ -1,5 +1,4 @@
-Hi there👋, I'm Shubham
-Data Analyst
+Hi there👋, I'm Shubham - Data Analyst
 
 🌱 I’m currently learning Power BI, SQL, Excel
 
