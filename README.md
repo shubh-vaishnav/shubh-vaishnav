@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **How I can find solutions to your problems.**
 
-- 📫 How to reach me **shubhamvaishnav1316@gmail.com**
+- 📫 How to reach me **shubhvaishnav1316@gmail.com**
 
 
 
