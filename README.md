@@ -1,18 +1,16 @@
 <h1 align="left">Hi there👋</h1>
 
-- 🔭 I’m currently working on **small projects to continue gaining experience**
+- 🔭 I’m currently working on **various small projects to gain more experience**
 
-- 🌱 I’m currently learning **Database Management System & Build Simple Projects of Python**
+- 🌱 I’m currently learning about **Database Management Systems and building simple Python projects**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/shubhamvaishnav](https://www.novypro.com/profile_projects/shubhamvaishnav)
+- 👨‍💻 You can find the best of my projects on my [Profile](https://codebasics.io/portfolio/Shubham-Vaishnav)
 
-- 📝 I write articles on [https://www.learnically.com/](https://www.learnically.com/)
+- 📝 I write articles on [Learnically](https://www.learnically.com/)
 
-- 💬 Ask me about **How I can find solutions to your problems.**
+- 💬 Feel free to ask me about **finding solutions to your problems**
 
-- 📫 How to reach me **shubhvaishnav1316@gmail.com**
-
-
+- 📫 You can reach me at [Email](mailto:shubhvaishnav1316@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
