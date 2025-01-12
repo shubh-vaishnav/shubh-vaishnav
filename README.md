@@ -6,8 +6,6 @@
 
 - 👨‍💻 You can find the best of my projects on my [Profile](https://codebasics.io/portfolio/Shubham-Vaishnav)
 
-- 📝 I write articles on [Learnically](https://www.learnically.com/)
-
 - 💬 Feel free to ask me about **finding solutions to your problems**
 
 - 📫 You can reach me at [Email](mailto:shubhvaishnav1316@gmail.com)
